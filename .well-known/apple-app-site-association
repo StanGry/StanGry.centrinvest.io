@@ -1,0 +1,28 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "F3LPN653S9.ru.centrinvest.mobilebanking-2018",
+                "comment": "prod application",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "F3LPN653S9.ru.centrinvest.mobilebanking-2018.test",
+                "comment": "test application",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "F3LPN653S9.ru.centrinvest.mobilebanking-2018.staging",
+                "comment": "staging application",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
